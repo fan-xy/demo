@@ -1,0 +1,4 @@
+@import "styles/fontAwesome.wxss";
+page,view,image,swiper,swiper-iteam,navigator,video{
+  box-sizing:boeder-box;
+}

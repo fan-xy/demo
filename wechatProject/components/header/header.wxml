@@ -1,0 +1,14 @@
+<view class="my_header">
+<navigator class="logo">
+<image class="logo_image" style="width:140rpx;height:60rpx" src="../../icon/logo2.png"></image>
+</navigator>
+<view class="search_inco">
+<image style="width:60rpx;height:40rpx" src="../../icon/search.png"></image>
+</view>
+<view class="user_inco">
+<image style="width:60rpx;height:60rpx"src="../../icon/user.png"></image>
+</view>
+<view class="down_app">
+下载 App
+</view>
+</view>
